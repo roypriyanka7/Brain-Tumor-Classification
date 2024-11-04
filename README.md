@@ -29,13 +29,15 @@ This dataset is created by NIRANJANA NEHRU. The minority class, Craniopharyngiom
 
 ### Proposed Methodology:
 
-![Methodology](https://github.com/user-attachments/assets/a1aa65cf-6733-4a99-831f-3b85f3c0591d)
+![Methodology](https://github.com/user-attachments/assets/cecbded3-427a-4248-aa2e-70007daef96a)
+
 <h4> <center> Overview of The Proposed Methodology</center></h4>
 
 We introduce a novel and reliable pipeline leveraging WGAN-GP and Real-ESR GANs with deep feature extraction methods to significantly enhance the accuracy of brain tumor classification from MRI images. Our approach effectively addresses challenges posed by highly imbalanced data and demonstrates strong generalizability, achieving superior accuracy compared to state-of-the-art deep learning models. These results underscore the potential of our proposed mechanism to improve computer-aided early-stage brain tumor diagnosis.
 
 
-![Explainability with GradCAM](https://github.com/user-attachments/assets/808a700c-a434-4b45-8be2-288895eb48e8)
+![gradcam](https://github.com/user-attachments/assets/1f1c4d15-e410-42c3-9458-a3a0416caa1b)
+
 <h4> <center> Explainability with GradCAM </center></h4>
 This study focuses on achieving high classification accuracy while prioritizing stable performance. By incorporating Grad-CAM, it enhances the transparency and interpretability of the overall classification process. This research identifies the most relevant and contributing parts of the input images toward accurate outcomes enhancing the reliability of the proposed pipeline.  
 
